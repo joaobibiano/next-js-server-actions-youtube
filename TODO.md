@@ -10,5 +10,7 @@
 
 [x] - Prisma com SQL - sqlite / PlanetScale / Vercel Postgres
 [x] - Configuração do prisma, definir a "tabela"
-[] - Criar nossa página de listar carros
-[] - Criar um formulário para cadastrar os carros
+[x] - Criar nossa página de listar carros
+[x] - Criar um formulário para cadastrar os carros
+[x] - Alterar se um carro está disponível ou não
+[x] - Deletar um carro
