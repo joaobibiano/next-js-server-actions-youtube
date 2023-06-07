@@ -8,7 +8,7 @@
 
 ## Deletar um carro
 
-[] - Prisma com SQL - sqlite / PlanetScale / Vercel Postgres
-[] - Configuração do prisma, definir a "tabela"
+[x] - Prisma com SQL - sqlite / PlanetScale / Vercel Postgres
+[x] - Configuração do prisma, definir a "tabela"
 [] - Criar nossa página de listar carros
 [] - Criar um formulário para cadastrar os carros
